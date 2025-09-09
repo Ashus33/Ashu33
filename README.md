@@ -1,14 +1,15 @@
 # 👋 Hey there, I'm Ashutosh Sharma!
 
-🎓 PGDM Student @ EMPI Business School, Delhi  
-📊 Passionate about learning and development (HR) Business Analytics, Data, AI & turning ideas into impact.  
-📈 Building dashboards, Program Coordination,	Training Ops,L&D Communication, Upskilling Projects. 
+🎓 PGDM Student @ EMPI Business School, Delhi.  
+🧠 *Psychologist* | Specializing in CBT, DBT, Trauma Response, and Mental Health Wellbeing.  
+📊 Passionate about Business Analytics, AI, and turning ideas into real impact.  
+📈 Building dashboards, templates & digital tools that make learning and working smarter.  
 🎯 On a mission to become a one-man digital ecosystem — connect, learn, grow, repeat.
 
 ---
 
 ### 🧰 Toolbox  
-Power BI • Tableau • Excel • Python • SQL • Canva • PPT •
+Power BI • Tableau • Excel • Python • SQL • Canva • PPT • SPSS • R Language
 
 ---
 
@@ -37,10 +38,5 @@ Power BI • Tableau • Excel • Python • SQL • Canva • PPT •
 ### ⚡ Fun Facts  
 - I love automating boring tasks 🧠  
 - I post everything from dashboards to dorm hacks 📚  
-- Trying to become a brand, not just a student 💼
-
----
-
-Let’s connect and build something awesome together 🚀
-<!--
-*aryamangourav/aryamangourav* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+- Working towards *mental health awareness* alongside *business analytics*  
+- Trying to *become a brand*, not just a student 💼
