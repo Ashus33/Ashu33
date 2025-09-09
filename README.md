@@ -14,7 +14,7 @@
 ---
 
 ### 🌐 My Digital Hub  
-🔗 [LinkedIn](www.linkedin.com/in/ashutoshssharma)    
+🔗 [LinkedIn](https://www.linkedin.com/in/ashutosh-sharma-973291188/)    
 🌍 [Portfolio]()
 
 ---
